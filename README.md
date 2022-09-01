@@ -1,6 +1,4 @@
-# hilite.me
-
-[hilite.me](http://hilite.me/) is a small webapp that converts your code
+A small Flask webapp that converts your code
 snippets into pretty-printed HTML format, easily embeddable into blog posts and
 websites.
 

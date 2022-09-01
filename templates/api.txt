@@ -1,4 +1,4 @@
-# hilite.me API documentation
+API documentation
 
 GET or POST to http://hilite.me/api with these parameters:
 
